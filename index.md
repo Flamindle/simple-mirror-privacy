@@ -1,3 +1,27 @@
+Privacy Policy for Simple Mirror App
+Effective Date: August 10, 2025
+
+1. Introduction
+Simple Mirror App (“the App”) respects and protects your privacy. This Privacy Policy explains how we handle your information when you use the App.
+
+2. No Data Collection
+We do not collect, store, or share any personal information from users. The App functions entirely on your device, using only the camera feed to display a mirror image.
+
+3. Camera Access
+The App requires permission to access your device's front camera solely to display your reflection in real time. The camera feed is processed locally on your device and is never transmitted to our servers or third parties.
+
+4. No Third-Party Services
+The App does not use analytics tools, advertising networks, or any third-party services that collect user data.
+
+5. Changes to This Policy
+We may update this Privacy Policy from time to time. Any changes will be effective immediately upon posting the updated version within the App or on our website.
+
+6. Contact Us
+If you have any questions about this Privacy Policy, please contact us at:
+
+Email: flamindle@163.com
+
+
 # Simple Mirror App 隐私政策
 
 最后更新日期：2025 年 8 月 10 日
@@ -25,4 +49,5 @@ Simple Mirror App（以下简称“本应用”）非常重视用户隐私。本
 
 ## 7. 联系方式
 如您对本隐私政策有任何疑问，请通过以下方式联系我们：
+
 邮箱：flamindle@163.com
